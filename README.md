@@ -1,2 +1,3 @@
 # Bookstore-Database-Management-System
-A SQL-based Bookstore Database Management project featuring three datasets — Books, Customers, and Orders. Includes basic and advanced data retrieval queries to explore sales, customer behavior, and inventory insights.
+
+This project demonstrates the design and management of a bookstore database using MySQL Workbench. It contains three core datasets: Books (catalog and details), Customers (profiles and purchase history), and Orders (transaction records). I worked on both simple and advanced SQL queries covering filtering, aggregation, joins, subqueries, and nested conditions. The queries help analyze sales trends, identify top customers, track inventory, and generate meaningful business insights. This project highlights practical database management and querying skills useful for real-world data analysis scenarios.
